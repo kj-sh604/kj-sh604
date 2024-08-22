@@ -44,7 +44,7 @@ I have smaller projects that you can find in the [script & tools](https://aedrie
     - Disclaimer: 🚨 These dotfiles are HEAVILY tailored for my needs and set-up. Feel free to explore and find ideas, but use at your own risk. 
 - **[📝 my blogsite](https://aedrielkylejavier.me/articles/):** My simple, ad-free blog site. I write about tech, personal hobbies, and other fun stuff.
     - Alternatively, I also post on [dev.to](https://dev.to/kj_sh604).
-- **[📦 Arch Linux PKGBUILDs](https://aedrielkylejavier.me/scripts-and-tools/pkgbuilds/):** I maintain a handful of Arch Linux packages in the [AUR](https://aur.archlinux.org/) and a personal collection here on [GitHub](https://github.com/kj-sh604/PKGBUILDs/tree/master).
+- **[📦 Arch Linux PKGBUILDs](https://aedrielkylejavier.me/scripts-and-tools/pkgbuilds/):** I maintain a handful of Arch Linux packages in the [AUR](https://aur.archlinux.org/packages?K=kj_sh604&SeB=m) and a personal collection here on [GitHub](https://github.com/kj-sh604/PKGBUILDs/tree/master).
 - **[🖌️ kj_shugo](https://github.com/kj-sh604/kj_shugo):** my VERY minimal, *"no style"* Hugo theme that I use on my [blog](https://aedrielkylejavier.me/articles/) and [scripts/tools](https://aedrielkylejavier.me/scripts-and-tools/) sites.
 
 ## get in touch! 📲 
