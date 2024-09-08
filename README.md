@@ -19,7 +19,7 @@ I am a passionate software engineer with recent experience and expertise in the 
 - **[🍅 posix-pomo](https://aedrielkylejavier.me/programs-and-scripts/posix-pomo/):** POSIX-compliant shell script that implements a CLI pomodoro timer.
 - **[📜 pandoc-résumé](https://github.com/kj-sh604/pandoc-resume):** Create your résumé easily with a single markdown file.
 
-I have smaller projects that you can find in the [script & tools](https://aedrielkylejavier.me/programs-and-scripts/) section of my [website](https://aedrielkylejavier.me/). Feel free to explore my Github repos as well! 🐱
+I have smaller projects that you can find in the [programs & scripts](https://aedrielkylejavier.me/programs-and-scripts/) section of my [website](https://aedrielkylejavier.me/). Feel free to explore my Github repos as well! 🐱
 
 ## skills 💻
 ### programming languages
