@@ -24,7 +24,7 @@ I have smaller projects that you can find in the [programs & scripts](https://ae
 ## skills 💻
 ### programming languages
 - **Web Development:** PHP, HTML, CSS, JavaScript (React, Node.js, Typescript)
-- **Systems Programming:** Python, C#, *currently learning Go and C*
+- **Systems Programming:** Python, C, C#, *currently learning Haskell*
 
 ### devops & system management
 - **Operating Systems:** Linux and other UNIX-like Systems
@@ -32,7 +32,7 @@ I have smaller projects that you can find in the [programs & scripts](https://ae
 - **Web Servers:** Apache, Nginx
 - **Infrastructure as Code:** Terraform
 - **Automation and Testing:** Playwright
-- **Cloud Providers:** Familiar with DigitalOcean, Linode, *and some AWS*
+- **Cloud Providers:** Familiar with DigitalOcean, Linode, Amazon Web Services
 
 ### version control & project management
 - **Version Control:** Git
