@@ -8,9 +8,6 @@ I like `vim`, GNU/Linux, and minimalist software!
 
 &nbsp;
 
-## self intro 👤
-I am a passionate software engineer with recent experience and expertise in the FinTech industry. In my spare time, I enjoy building minimalist tooling for GNU/Linux and UNIX-like systems. I am also very much enthused with developing useful web applications 🌐.
-
 ## projects 🔧
 - **[🪧 procrastiSlides](https://procrastislides.com/):** Web-based markdown presentation(s) generator utilizing `pandoc` and `pdflatex`. 
 - **[🔍 justsearx.xyz](https://justsearx.xyz/):** My own [searxng](https://github.com/kj-sh604/justsearXNG) instance.
