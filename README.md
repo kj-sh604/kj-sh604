@@ -32,7 +32,7 @@ I have smaller projects that you can find in the [programs & scripts](https://ae
 
 ## programming languages
 - **Web Development:** PHP, HTML, CSS, JavaScript
-- **Systems Programming:** Python, C#
+- **Systems Programming:** Python, C, NimLang, GoLang
 
 ## other stuff 🎨
 - **[🍚 dotfiles](https://github.com/kj-sh604/dotfiles):** Configuration files for my GNU/Linux and Neovim set-up. 
