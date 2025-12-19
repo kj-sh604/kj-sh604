@@ -4,7 +4,7 @@
 
 &nbsp;
 
-## random personal projects 🔧
+# random personal projects 🔧
 - **[🪧 procrastiSlides](https://procrastislides.com/):** Web-based markdown presentation(s) generator utilizing `pandoc` and `pdflatex`. 
 - **[🔍 justsearx.xyz](https://justsearx.xyz/):** My own [searxng](https://github.com/kj-sh604/justsearXNG) instance.
 - **[⌚ dateTimeSetter](https://aedrielkylejavier.me/programs-and-scripts/datetimesetter/):** Functional GUI for systemd's `timedatectl` written in python & tk. Useful for standalone window managers on GNU/Linux.
