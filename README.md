@@ -4,11 +4,7 @@
 
 &nbsp;
 
-I like `vim`, GNU/Linux, and minimalist software!
-
-&nbsp;
-
-## projects 🔧
+## random personal projects 🔧
 - **[🪧 procrastiSlides](https://procrastislides.com/):** Web-based markdown presentation(s) generator utilizing `pandoc` and `pdflatex`. 
 - **[🔍 justsearx.xyz](https://justsearx.xyz/):** My own [searxng](https://github.com/kj-sh604/justsearXNG) instance.
 - **[⌚ dateTimeSetter](https://aedrielkylejavier.me/programs-and-scripts/datetimesetter/):** Functional GUI for systemd's `timedatectl` written in python & tk. Useful for standalone window managers on GNU/Linux.
@@ -20,23 +16,23 @@ I like `vim`, GNU/Linux, and minimalist software!
 I have smaller projects that you can find in the [programs & scripts](https://aedrielkylejavier.me/programs-and-scripts/) section of my [website](https://aedrielkylejavier.me/). Feel free to explore my Github repos as well! 😌
 
 # skills 💻
-## programming languages
-- **Web Development:** PHP, HTML, CSS, JavaScript
-- **Systems Programming:** Python, C#
-
 ## devops & system management
+- **Infrastructure as Code:** Terraform, Helm Charts
+- **Containerization and Orchestration:** Docker, Kubernetes
+- **Cloud Providers:** Microsoft Azure, Amazon Web Services (AWS), DigitalOcean, Linode
+- **Web Servers:** Apache, Nginx
 - **Operating Systems:** Linux and other UNIX-like Systems
 - **Scripting Languages:** Bash, POSIX Shell Scripting
-- **Web Servers:** Apache, Nginx
-- **Infrastructure as Code:** Terraform
-- **Containerization and Orchestration:** Docker
 - **Automation and Testing:** Playwright
-- **Cloud Providers:** Microsoft Azure, DigitalOcean, Linode
 
 ## version control & project management
 - **Version Control:** Git
 - **Project Management & Documentation:** Jira, Confluence 
 - **Work Environments:** Experienced in Agile and Waterfall methodologies
+
+## programming languages
+- **Web Development:** PHP, HTML, CSS, JavaScript
+- **Systems Programming:** Python, C#
 
 ## other stuff 🎨
 - **[🍚 dotfiles](https://github.com/kj-sh604/dotfiles):** Configuration files for my GNU/Linux and Neovim set-up. 
